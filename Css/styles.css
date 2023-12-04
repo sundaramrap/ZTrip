@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+  position: relative;
+}
+
+body {
+  overflow-y: auto;
+  min-height: 100vh;
+}
+
+footer {
+  vertical-align: bottom;
+  text-align: center;
+  color: black;
+  background-color: rgb(172, 166, 204);
+  width: 100%;
+  padding: 16px 0px;
+  margin: 40px;
+}
